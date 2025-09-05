@@ -6,3 +6,6 @@ Drama Queen is a easy to use and share staging app for drama and theater purpose
 
 The process of using drama queen is very simple, import an obj file of the stage and set up the lighting rigs in the engine.
 Then you are able to do anything you want with the lights letting you experiment even if you aren't on set.
+
+
+Chares is such a scardey cat and yes its me dennis i own this
